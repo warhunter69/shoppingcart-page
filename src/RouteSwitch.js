@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import {  Routes, Route, HashRouter } from "react-router-dom";
 import App from "./App";
 import NavBar from "./components/NavBar";
 import Shop from "./components/Shop";
@@ -38,11 +38,11 @@ const RouteSwitch = () => {
 
   return (
     
-    <BrowserRouter>
+    <HashRouter>
      <NavBar items={items} removeCard={removeCard}/>
 
       <Routes>
-        <Route path="/" element={<App />} />
+        <Route path="shoppingcart-page/" element={<App />} />
         <Route path="/shop" element={<Shop/>}/>
         <Route path="/shop/cats" element={<Shop name={"cats"} cards={cat_arr} clickCard={clickCard} addtoCart={addtoCart} />}/>
         <Route path="/shop/dogs" element={<Shop name={"dogs"}/>} />
@@ -53,7 +53,7 @@ const RouteSwitch = () => {
         }
       </Routes>
      
-    </BrowserRouter>
+    </HashRouter>
    
   );
 };
