@@ -1,0 +1,67 @@
+.sticky-bar{
+    position: sticky;
+    top: 0;
+    background-color: #20232a;
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+
+    height: 100px;
+    
+    box-shadow: 0 0 2px rgb(0 0 0 / 15%);    
+}
+a{
+    
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 24px;
+    text-decoration: none;
+    display: flex;
+    align-items: center; /*centerd every thing in container div "/
+    /*padding-top: 30px;*/
+    /*height: 50%;*/
+   
+    /*width: calc(100% / 6);*/
+}
+.title{
+    width: calc(100% / 6);
+    
+}
+.container{
+    
+    /*height: 80px;*/
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: nowrap;  
+    /*padding-top: 30px;*/
+}  
+.header{
+   position: fixed;
+  
+}
+a:visited { 
+    text-decoration: none; 
+    color: #ffffff; 
+   }
+.logo{
+   
+    height: 100px;
+    width: 100px;
+  
+}
+.logo_span{
+    margin-left: 10px;
+}
+.cart_btn{
+    margin: auto;
+    background-color:#20232a;
+    margin-top: 14px;
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 14px 28px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+
+}
