@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shoppingcart-page/static/css/main.3e63cd4f.css",
+    "main.js": "/shoppingcart-page/static/js/main.81fa2020.js",
+    "static/js/787.3351b62b.chunk.js": "/shoppingcart-page/static/js/787.3351b62b.chunk.js",
+    "static/media/tomasw.jpeg": "/shoppingcart-page/static/media/tomasw.2404ef022b63e5f7b131.jpeg",
+    "static/media/jeff.jpeg": "/shoppingcart-page/static/media/jeff.9501682bc563cbe2620d.jpeg",
+    "static/media/beavis.jpeg": "/shoppingcart-page/static/media/beavis.b1c2bb77febc76432f9a.jpeg",
+    "static/media/micheal.jpeg": "/shoppingcart-page/static/media/micheal.a06b6518313356d19a04.jpeg",
+    "static/media/patterick.jpeg": "/shoppingcart-page/static/media/patterick.b8f741a51a5197b52c27.jpeg",
+    "static/media/george.jpeg": "/shoppingcart-page/static/media/george.0202949c480e716addd9.jpeg",
+    "static/media/snake.jpeg": "/shoppingcart-page/static/media/snake.cf036a2b87b480950bff.jpeg",
+    "static/media/sardina.jpeg": "/shoppingcart-page/static/media/sardina.052b74631568ecf8a2a8.jpeg",
+    "static/media/cat_logo2.png": "/shoppingcart-page/static/media/cat_logo2.031f263d04415ba5b78b.png",
+    "static/media/sandy.jpeg": "/shoppingcart-page/static/media/sandy.9cda5ce046c635f3cd50.jpeg",
+    "static/media/butthead.jpeg": "/shoppingcart-page/static/media/butthead.18b0c76cf51b9b94f229.jpeg",
+    "index.html": "/shoppingcart-page/index.html",
+    "main.3e63cd4f.css.map": "/shoppingcart-page/static/css/main.3e63cd4f.css.map",
+    "main.81fa2020.js.map": "/shoppingcart-page/static/js/main.81fa2020.js.map",
+    "787.3351b62b.chunk.js.map": "/shoppingcart-page/static/js/787.3351b62b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e63cd4f.css",
+    "static/js/main.81fa2020.js"
+  ]
+}
